@@ -336,6 +336,7 @@ List of tutorial participants
 - Ashima Sood (Ulster University)
 - Ana Rinzler (Rutgers University)
 - Divya Sundar (University of California, Berkeley)
+- Saskia Moossun (Yale University)
 
 Checking for and creating issues on Github
 -------------------------------------------
